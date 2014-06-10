@@ -15,6 +15,9 @@
  * - Only works for strings
  * - Not maintainable
  *
+ * Inspired by:
+ * academiccomputing.wordpress.com/2014/06/09/the-ugliest-beautiful-line-of-code
+ *
  * @param src  string to copy from
  * @param dest char buffer to copy to
  */

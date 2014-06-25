@@ -8,6 +8,11 @@ My metaphorical junk drawer
   * [Preprocessor identifiers](c/preproc_identifiers.c)
   * [String copy one-liner](c/string_copy.c)
 * Groovy
+  * [Java Differences](groovy/javaDifferences.groovy): Shows several of the
+    differences between Java and Groovy. Taken from "Getting Started" on the
+    Groovy site.
   * [Hello World Example](groovy/helloWorld.groovy)
+  * [Script](groovy/script.groovy): Groovy scripts can be executed like
+    Bash/Python scripts, using the `./` operator.
 * Lisp
   * [Fibonacci](lisp/fibonacci.lsp): Multiple return values for functions

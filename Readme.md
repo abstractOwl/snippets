@@ -16,3 +16,6 @@ My metaphorical junk drawer
     Bash/Python scripts, using the `./` operator.
 * Lisp
   * [Fibonacci](lisp/fibonacci.lsp): Multiple return values for functions
+* Ruby
+  * [ARGF](ruby/argf.rb): Reads files specified either through STDIN or as args
+

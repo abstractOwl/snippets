@@ -14,6 +14,8 @@ My metaphorical junk drawer
   * [Hello World Example](groovy/helloWorld.groovy)
   * [Script](groovy/script.groovy): Groovy scripts can be executed like
     Bash/Python scripts, using the `./` operator.
+* Java
+  * [HelloAspects](java/HelloAspects): Basic examples of AOP in Spring AOP.
 * Lisp
   * [Fibonacci](lisp/fibonacci.lsp): Multiple return values for functions
 * Ruby

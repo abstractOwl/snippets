@@ -18,6 +18,8 @@ My metaphorical junk drawer
   * [HelloAspects](java/HelloAspects): Basic examples of AOP in Spring AOP.
 * Lisp
   * [Fibonacci](lisp/fibonacci.lsp): Multiple return values for functions
+* Python
+  * [Bad pickle](python/bad_pickle.py): Run arbitrary code using `pickle.loads`
 * Ruby
   * [ARGF](ruby/argf.rb): Reads files specified either through STDIN or as args
 
